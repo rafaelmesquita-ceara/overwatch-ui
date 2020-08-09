@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "overwatch-ui"
+    }
+  },
+  "defaultProject": "overwatch-ui",
+  "cli": {
+    "analytics": "48171738-1adf-49a3-bf04-8ad17bbde2d5"
+  }
 }

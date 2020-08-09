@@ -7,10 +7,22 @@ export interface Hero{
   skills : [{
     name : string;
     description : string;
+  },
+  {
+    name : string;
+    description : string;
+  },
+  {
+    name : string;
+    description : string;
+  },
+  {
+    name : string;
+    description : string;
   }]
-
   //biography
   real_name : string;
+  age : number;
   occupation : string;
   base_of_operations : string;
   affiliation : string;

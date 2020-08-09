@@ -1,0 +1,9 @@
+Angular helpers-
+	ng generate component <nome do componente>
+
+
+1 - Gerei a interface dos heróis, com todos os campos necessários.
+2 - Gerei o mock-heroes, onde serão preenchidos os heróis, utilizando a interface
+3 - gerei o component dashboard, onde será apresentada uma lista de heróis
+4 - gerei o service de heróis, onde serão injetados nos componentes
+5 -
